@@ -1,7 +1,8 @@
 # ShuMako Week 2019 - January 14 - 20
 
-## Schedule & Rules
+ShuMako Week celebrates the Protagonist+Niijima Makoto pairing from Persona 5. Everyone who likes this pairing is encouraged to participate! We promote most forms of fan creations. 
 
+## Schedule & Rules
 
 ### What’s the schedule?
 
@@ -87,7 +88,7 @@ work :)
     
  8. Please keep your content hate-free, this includes hate targeted at other characters or ships.
 
-##### This content has been adapted from the original Makoto Week page:
+#### This content has been adapted from the original Makoto Week page:
 
 Most of the content of this post has been adapted from the original [Makoto
 Niijima Week](https://makotoniijimaweekarchive.tumblr.com) from 2017. Our
