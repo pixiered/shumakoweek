@@ -29,7 +29,7 @@ don’t expect cosplayers to travel great distances for that new photo or create
 a prompt-specific outfit, though we’ll happily add it to the appropriate
 prompt Moment if they do!  
 
-#### What types of post are accepted?
+### What types of post are accepted?
 
 Fanfiction, fanart, fanmixes, edits, headcanons, videos, and other content
 mediums that do not violate the rules (see below) and are not reposts of
@@ -38,7 +38,7 @@ hate and original for the week (not new chapters of ongoing work or other
 pre-existing work). We do accept NSFW material but **ONLY if the post linking to
 it is safe for work.**
 
-#### How do you participate?
+### How do you participate?
 
 **On [Twitter](https://twitter.com/shumakoweek)**: Tweet with the hastag #shumakoweek. We will be following that.
 
@@ -47,18 +47,18 @@ on your own blog and we will reblog it here, or you can submit it to us at
 [/submit](https://shumakoweek.tumblr.com/submit). If you are posting on your
 own blog, make sure to mention @shumakoweek in the caption and use #shumakoweek in the tags.
 
-#### What is the deadline?
+### What is the deadline?
 
 There is NO DEADLINE to submit content. All late content will be accepted.
 
-#### I want to do something but I’m not a creator!
+### I want to do something but I’m not a creator!
 
 1. You can become one! Go for it!
 
 2. You can also participate by supporting the creators! Have you ever left a comment? Maybe it’s time to give it a try! If you have before, maybe set a new goal for yourself: Comment once a day! Comment on every piece you consume! Challenge yourself!
 
 
-#### Note on posting times:
+### Note on posting times:
 
 Our team spans many time zones but work and life still happens. Please bear
 with us if we don’t retweet/reblog immediately. If your post doesn’t violate
@@ -69,7 +69,7 @@ NSFW make take us longer to retweet/reblog because we have fewer people
 reviewing them for rule compliance and of course they can’t review them from
 work :) 
 
-### RULES:
+## RULES:
 
  1. NSFW (involving sex/porn) materials is accepted but ONLY if the post linking to it: (A) Is completely safe for work, no explicit previews even on hover and (B) the link is clearly marked as NSFW. Basically anyone should be able to read our blog safely at work.
     
